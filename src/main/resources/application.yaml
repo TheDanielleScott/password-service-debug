@@ -1,0 +1,8 @@
+server:
+  error:
+    include-message: always
+  forward-headers-strategy: native
+  port: 8080 # May be omitted or changed; 8080 is the default Tomcat port
+  servlet:
+    context-path: /api # All controller paths will be relative to this.
+

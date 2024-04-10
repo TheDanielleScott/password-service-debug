@@ -1,0 +1,24 @@
+remote_theme: ddc-java/ddc-day
+
+title: Password Service
+description: "Implement a simple random password generator as a web service."
+
+author:
+  name: Nick Bennett
+  email: nick@nickbenn.com
+
+heading_navigator:
+  enabled: true
+page_navigator:
+  enabled: false
+titles_from_headings:
+  enabled: false
+
+assignment:
+  url: https://classroom.github.com/a/NuWEScVF
+  format: Maven Java project
+  value:
+    basic:
+      implementation: 20
+    stretch:
+      implementation: 30
